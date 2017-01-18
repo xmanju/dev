@@ -21,3 +21,5 @@ https://github.com/martinp/ipd
 [Social Impact](https://github.com/showcases/social-impact)
 
 [Data Visualization](https://github.com/showcases/data-visualization)
+
+[Git Changing Auth info](https://help.github.com/articles/changing-author-info/)
