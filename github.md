@@ -17,3 +17,7 @@ https://github.com/martinp/ipd
 [Serverless Architecture](https://github.com/showcases/serverless-architecture)
 
 [Programming Skills](http://exercism.io/)
+
+[Social Impact](https://github.com/showcases/social-impact)
+
+[Data Visualization](https://github.com/showcases/data-visualization)
