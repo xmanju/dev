@@ -8,6 +8,7 @@
 # ES6 Guidlines - New Updates
 
 # Read up / Resources
+
 https://medium.com/@_ericelliott
 
 https://ericelliottjs.com/
@@ -15,3 +16,6 @@ https://ericelliottjs.com/
 https://github.com/ericelliott/essential-javascript-links
 
 https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.ca10z4uj9
+
+https://ponyfoo.com/books/practical-es6/chapters#toc
+
