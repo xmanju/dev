@@ -7,6 +7,18 @@
 
 # ES6 Guidlines - New Updates
 
+# JavaScript Libraries for Data Analysis and Visualization
+ 
+ D3.js : Data-Driven-Documents
+ 
+ Aperture JS
+ 
+ InfoVis
+ 
+ Cytoscape.js
+ 
+ Reference: https://dzone.com/articles/4-useful-javascript-libraries-for-data-analysis-an?edition=272882&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=dd%202017-02-21
+
 # Read up / Resources
 
 https://medium.com/@_ericelliott
