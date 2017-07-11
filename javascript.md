@@ -38,3 +38,9 @@ https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-sc
 
 https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8
 
+
+## Learn JavaScript
+
+https://ericelliottjs.com/
+
+
