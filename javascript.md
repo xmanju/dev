@@ -33,6 +33,8 @@ https://ponyfoo.com/books/practical-es6/chapters#toc
 
 https://blog.risingstack.com/getting-node-js-testing-and-tdd-right-node-js-at-scale/
 
+https://javascript.info/js
+
 
 ## Function composition
 
