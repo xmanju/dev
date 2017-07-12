@@ -20,3 +20,13 @@ Source : https://dzone.com/articles/an-introduction-to-software-architecture-wha
 
 Source: http://sourcesofinsight.com/4-stages-of-market-maturity/
 
+### Stone Soup Programming
+
+- Components must be additively commutative
+- The components should be idempotent, e.g. redundancy as choice or fallback
+- The components must provide integration hooks
+- The components do not directly identify one another
+- Robust and stable; nothing volatile, toxic, explosive
+- Some notion of `seed` components
+
+Source: https://awelonblue.wordpress.com/2012/09/12/stone-soup-programming/
