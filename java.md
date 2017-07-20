@@ -8,6 +8,8 @@
 
 [Cuba Platform](https://www.cuba-platform.com/)
 
+[Cuba](https://www.cuba-platform.com/)
+
 [Spark](https://sparktutorials.github.io/)
 
 [Rapiodoid](http://www.rapidoid.org/)
